@@ -1,6 +1,6 @@
-# Ecommerce project in React.js
+# eCommerce project in React.js
 
-## A full stack e-commerce website from scratch
+## A full stack eCommerce website from scratch
 
 https://ecommerce21.netlify.app/
 
